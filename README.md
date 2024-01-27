@@ -1,4 +1,4 @@
-Tech Interview Handbook Algorithms
+# Tech Interview Handbook Algorithms
 Welcome to the Tech Interview Handbook Algorithms repository! 🚀
 
 Overview
@@ -6,10 +6,12 @@ This repository is dedicated to mastering algorithms for technical interviews, p
 
 Table of Contents
 Getting Started
+runnig the demos
 Algorithms
 Contributing
 License
-Getting Started
+
+# Getting Started
 To get started, simply clone the repository to your local machine:
 
 bash
@@ -18,7 +20,15 @@ git clone https://github.com/AbdullahKhames/tech-interview-handbook.git
 cd tech-interview-handbook
 Make sure you have your favorite programming language and development environment set up. You're ready to dive into the world of algorithms!
 
-Algorithms
+# runnig the demos
+for cpp files:
+to compile and run the file
+g++ -o <the-name-of-executable-you-want> -Wall -Wextra -Werror -pedantic -std=c++17 <the-name-of-source-file-to-compile>
+
+for node files
+npm start the main in it import the needed function and execute it
+
+# Algorithms
 
 1. Binary Search
    Implement a binary search algorithm and solve related problems to enhance your understanding of this fundamental algorithm.
@@ -35,10 +45,8 @@ Algorithms
 5. String Manipulation
    Tackle problems related to string manipulation, substring searches, and palindrome checks to enhance your algorithmic prowess.
 
-Contributing
-We welcome contributions! Whether you've found a bug, want to add a new algorithm, or improve existing solutions, please follow our contribution guidelines. Together, let's build a resource that helps developers ace their technical interviews.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+# License
+This project is not-licensed
 
 Happy coding! 🚀
