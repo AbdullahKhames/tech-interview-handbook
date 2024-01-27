@@ -1,4 +1,5 @@
 # Tech Interview Handbook Algorithms
+
 Welcome to the Tech Interview Handbook Algorithms repository! 🚀
 
 Overview
@@ -12,18 +13,21 @@ Contributing
 License
 
 # Getting Started
+
 To get started, simply clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/AbdullahKhames/tech-interview-handbook.git
+git clone <https://github.com/AbdullahKhames/tech-interview-handbook.git>
 cd tech-interview-handbook
 Make sure you have your favorite programming language and development environment set up. You're ready to dive into the world of algorithms!
 
 # runnig the demos
+
 for cpp files:
 to compile and run the file
-g++ -o <the-name-of-executable-you-want> -Wall -Wextra -Werror -pedantic -std=c++17 <the-name-of-source-file-to-compile>
+g++ -o the-name-of-executable-you-want -Wall -Wextra -Werror -pedantic -std=c++17 the-name-of-source-file-to-compile
+then ./the-name-of-executable-you-want
 
 for node files
 npm start the main in it import the needed function and execute it
@@ -45,8 +49,8 @@ npm start the main in it import the needed function and execute it
 5. String Manipulation
    Tackle problems related to string manipulation, substring searches, and palindrome checks to enhance your algorithmic prowess.
 
-
 # License
+
 This project is not-licensed
 
 Happy coding! 🚀
