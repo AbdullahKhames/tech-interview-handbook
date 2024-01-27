@@ -14,7 +14,7 @@ To get started, simply clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/tech-interview-handbook-algorithms.git
+git clone https://github.com/AbdullahKhames/tech-interview-handbook.git
 cd tech-interview-handbook
 Make sure you have your favorite programming language and development environment set up. You're ready to dive into the world of algorithms!
 
